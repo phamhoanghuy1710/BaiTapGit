@@ -5,6 +5,8 @@ namespace BaiTapGit
         public Form1()
         {
             InitializeComponent();
+            // Hello World
+            // hello Viet
         }
     }
 }

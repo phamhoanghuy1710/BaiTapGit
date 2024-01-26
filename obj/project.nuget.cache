@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UBNntZP49gCmO7EWSmgEZcR2sLOFjWsum+0WJrd+tDU+VIkfTUgSCWL9K+OIFMSQ8sqyjQw+8Tr8kDIbEGj8/w==",
+  "dgSpecHash": "whBE/F5Wxl7+JBbTmgBnuLndncs095ijJBLfaK3/ZC13uT5CxkOesgmTMfaf77RQxM97M6dOCNYMJMrUWMKxNQ==",
   "success": true,
-  "projectFilePath": "D:\\Ki2Nam2\\Lap_trinh_win\\Bai_Tap_Git\\BaiTapGit\\BaiTapGit\\BaiTapGit.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\LAP TRINH WINDOW (Thứ 6)\\Git_W3\\BaiTapGit\\BaiTapGit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vietf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vietf\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vietf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vietf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
