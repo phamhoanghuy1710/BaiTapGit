@@ -11,9 +11,11 @@ namespace BaiTapGit
         {
 <<<<<<< HEAD
             // Huy da sua code
+            // Huy lam bai 
 =======
             // Huy chinh code o nhanh
 >>>>>>> HoangHuy
+            
         }
     }
 }
