@@ -9,12 +9,7 @@ namespace BaiTapGit
 
         private void Form1_Load(object sender, EventArgs e)
         {
-<<<<<<< HEAD
-            // Huy da sua code
-            // Huy lam bai 
-=======
-            // Huy chinh code o nhanh
->>>>>>> HoangHuy
+
             
         }
     }
